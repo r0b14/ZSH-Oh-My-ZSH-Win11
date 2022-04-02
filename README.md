@@ -2,7 +2,7 @@
 
 Armazenando as configurações da instalação, configuração e uso do ZSH no Win11.
 
-Vídeo base => [Link](https://www.youtube.com/watch?v=y-w-gamp4U0).
+Vídeo base --> [Link](https://www.youtube.com/watch?v=y-w-gamp4U0).
 
 --------------------------
 
@@ -17,3 +17,6 @@ Há uma série de tutorial que ajuda a instalar o hyper e configurar com o Oh My
 - :video_camera: Playlist [youtube](https://youtube.com/playlist?list=PLirko8T4cEmw2kCe2YEMSjxg_hydVZIR-).
 - :exclamation: Canal do [Marcos Bruno](https://www.youtube.com/c/MarcoBrunoDev).
 - :globe_with_meridians: Site para instalar o [Hyper](https://hyper.is/).
+
+## Iniciando a Instalação
+
