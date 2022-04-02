@@ -8,7 +8,7 @@ Vídeo base => [Link](https://www.youtube.com/watch?v=y-w-gamp4U0).
 
 Para quem usa o windows 10, o terminal que é usado por padrão, é o Prompt de Comando - CMD. O que há de opção para substituir é o windows terminal, que pode ser instalado na própria loja do de apps/sofwares da microsoft.
 
-<img src="C:\Users\Robso\OneDrive\Documentos\Lightshot\windows-terminal.png" alt="windows-terminal" style="zoom:50%;" />
+<img src="C:\Users\Robso\OneDrive\Documentos\GitHub-Projetcts\ZSH-Oh-My-ZSH-Win11\img\windows-terminal.png" alt="Windows-Terminal" style="zoom:50%;" />
 
 Há a possibilidade de usar o hyper que é um ótimo terminal e há diversas formas de temas que permitem o usuário deixar do jeito que desejar. Eu usei o hyper por muito tempo, porém o meu S.O apresentava muito erro. Gostei, porém acredito que usar windows terminal é mais fácil de configurar e os erros não são muito comum.
 
