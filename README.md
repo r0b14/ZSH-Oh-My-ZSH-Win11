@@ -20,3 +20,12 @@ Há uma série de tutorial que ajuda a instalar o hyper e configurar com o Oh My
 
 ## Iniciando a Instalação
 
+
+----
+## Para instalação e configuração do Zsh no ubuntu
+
+Para poder realizar tal feito, basta simplesmente seguir o passo a posso da documentação disponibilizada nesse site [Linux-Console](https://pt.linux-console.net/?p=29502).
+
+#### Bug zsh-autosuggestions
+
+contornar a situação do bug - `git clone --depth 1 https://github.com/zsh-users/zsh-autosuggestions "${ZSH_CUSTOM:-~/.oh-my-zsh/custom}"/plugins/zsh-autosuggestions`
